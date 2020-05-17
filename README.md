@@ -6,7 +6,8 @@ a faulty 2D physics engine using glfw &amp; python
 
 ## Usage
 
-> pip 어쩌고 
+> $ pip 어쩌고 
 
  
-
+## 언제 다시 고치시나요?
+음;;;
