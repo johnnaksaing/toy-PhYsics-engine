@@ -1,4 +1,4 @@
-# toy-PhYsics-engine
+﻿# toy-PhYsics-engine
 a faulty 2D physics engine using glfw &amp; python
 
 ## 설명
@@ -7,7 +7,7 @@ a faulty 2D physics engine using glfw &amp; python
 ## Usage
 
 > $ pip 어쩌고 
-
+> $ python engine.py
  
 ## 언제 다시 고치시나요?
 음;;;
